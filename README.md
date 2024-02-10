@@ -31,6 +31,9 @@ Default settingsene skal være riktig
 
   ![Google drive download button](https://github.com/EliasHobby/minecraft-server-setup/assets/41197179/c3f15487-582c-4c39-a550-ba73ef6bc540)
 
+![Skip ad](https://github.com/EliasHobby/minecraft-server-setup/assets/41197179/725747c7-2bf9-47a5-8bd4-d2fc8f239102)
+
+
 - Åpne mods-folderen
 ![Minecraft launcher mods button](https://github.com/EliasHobby/minecraft-server-setup/assets/41197179/e662f808-31ba-47cb-b0a4-ee2012919f07)
 
