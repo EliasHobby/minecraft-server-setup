@@ -1,5 +1,7 @@
 # Hvordan spille
 
+### Server adresse: bigbootycraft.dedimc.io
+
 ## Forutsetninger
 
 - Installert Java 21 [last ned](https://download.oracle.com/java/21/archive/jdk-21_windows-x64_bin.exe)
@@ -26,6 +28,8 @@ Default settingsene skal være riktig
 
 - Last ned modsene [her](https://drive.google.com/file/d/1mH5P8uftKeyhWzYXBN3AskivXqCUYtpe/view?usp=sharing) *(Sist oppdatert 10.02.2024 13:18)*
 
+  ![Google drive download button](https://github.com/EliasHobby/minecraft-server-setup/assets/41197179/c3f15487-582c-4c39-a550-ba73ef6bc540)
+
 - Åpne mods-folderen
 ![Minecraft launcher mods button](https://github.com/EliasHobby/minecraft-server-setup/assets/41197179/e662f808-31ba-47cb-b0a4-ee2012919f07)
 
@@ -33,7 +37,25 @@ Default settingsene skal være riktig
 
 - Flytt alle filene fra mods-mappen du lastet ned (ikke selve mappen, men innholdet) over i mods-mappen du åpnet via Minecraft
 - Restart Minecraft
-- For å verifisere at modsene virket kan du lage en single-player world. Hvis du har en bok i inventoryen din har du gjort alt riktig.
+- Du skal nå kunne se Forge versjonen og hvor mange mods du har lastet
+
+![Minecraft launcher show mods](https://github.com/EliasHobby/minecraft-server-setup/assets/41197179/cc46841e-0641-4cc7-ba56-e2bfc323c137)
+
+- Du er nå klar til å koble på serveren ved å trykke Multiplayer > Add Server > Fyll ut et vilkårlig servernavn og sett bigbootycraft.dedimc.io som serveradressen
+
+![Edit server info](https://github.com/EliasHobby/minecraft-server-setup/assets/41197179/d521c359-1f9e-4281-9023-6df98ec88a74)
+
+
+## 3. Voice chat
+### Proximity chat
+- Når du kommer inn på serveren trykker du 'V' for å åpne menyen for proximity voice chat
+- Trykk på Settings, og velg 'Activation type: Voice' (med mindre du ønsker push to talk, selvsagt)
+- Nå er proxy chat aktivert, og alle i nærheten skal kunne høre deg når du snakker
+
+### Global voice chat
+- Når du kommer inn på serveren kan du trykke 'G' for å åpne menyen for global voice chat
+- Her kan du bli med i eller lage en gruppe. Alle som er i gruppen vil kunne høre deg uansett hvor i verden du er. Praktisk når dere skal på eventyr eller lignende
+- Når du lager en group, bruk Group type: Open. Da vil du høre alle i gruppen din på en global basis, men Proximity chat vil også funke som forventet med folk som er i nærheten av deg og som ikke er i gruppen
 
 # Mod list
 #### Hvis en mod ikke er oppført her er det fordi det er en dependency og ikke en mod som endrer spillet i seg selv
