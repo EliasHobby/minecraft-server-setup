@@ -12,12 +12,13 @@
 
 ![Forge download](https://github.com/EliasHobby/minecraft-server-setup/assets/41197179/70d1ebbe-64a1-4a59-941e-ae7a4311e791)
 
+- Lukke Minecraft før du starter installasjon
+  
 - Kjør filen. Trykk OK hvis pcen sier det kan være skadelig (.jar filer vil alltid trigge denne advarselen, no harm).
 #### NB: Hvis du blir bedt om å velge program å åpne filen i har du trolig ikke Java 21 installert. Se Forutsetninger.
 ![Forge installer](https://github.com/EliasHobby/minecraft-server-setup/assets/41197179/9b88d21f-e365-4ad7-b98c-88560e50973a)
 
 Default settingsene skal være riktig
-
 - Start Minecraft, og velg Forge i launcheren
 
 ![Minecraft launcher](https://github.com/EliasHobby/minecraft-server-setup/assets/41197179/f227b0ef-b1ce-4a50-be95-0466fb6dce96)
