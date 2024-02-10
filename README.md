@@ -18,6 +18,8 @@
 #### NB: Hvis du blir bedt om å velge program å åpne filen i har du trolig ikke Java 21 installert. Se Forutsetninger.
 ![Forge installer](https://github.com/EliasHobby/minecraft-server-setup/assets/41197179/9b88d21f-e365-4ad7-b98c-88560e50973a)
 
+![Skip ad](https://github.com/EliasHobby/minecraft-server-setup/assets/41197179/e4492abd-f27d-4e20-b080-12b2eab1092d)
+
 Default settingsene skal være riktig
 - Start Minecraft, og velg Forge i launcheren
 
@@ -29,10 +31,7 @@ Default settingsene skal være riktig
 
 - Last ned modsene [her](https://drive.google.com/file/d/1mH5P8uftKeyhWzYXBN3AskivXqCUYtpe/view?usp=sharing) *(Sist oppdatert 10.02.2024 13:18)*
 
-  ![Google drive download button](https://github.com/EliasHobby/minecraft-server-setup/assets/41197179/c3f15487-582c-4c39-a550-ba73ef6bc540)
-
-![Skip ad](https://github.com/EliasHobby/minecraft-server-setup/assets/41197179/725747c7-2bf9-47a5-8bd4-d2fc8f239102)
-
+![Google drive download button](https://github.com/EliasHobby/minecraft-server-setup/assets/41197179/c3f15487-582c-4c39-a550-ba73ef6bc540)
 
 - Åpne mods-folderen
 ![Minecraft launcher mods button](https://github.com/EliasHobby/minecraft-server-setup/assets/41197179/e662f808-31ba-47cb-b0a4-ee2012919f07)
