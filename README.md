@@ -28,7 +28,7 @@ Default settingsene skal være riktig
 
 ## 2. Installere mods
 
-- Last ned modsene [her](https://drive.google.com/file/d/1mH5P8uftKeyhWzYXBN3AskivXqCUYtpe/view?usp=sharing) *(Sist oppdatert 10.02.2024 13:18)*
+- Last ned modsene [her](https://drive.google.com/file/d/1PivwE8xvHpFdeZX1vZBpatiBPnAMi7c_/view) *(Sist oppdatert 12.02.2024 21:05)*
 
 ![Google drive download button](https://github.com/EliasHobby/minecraft-server-setup/assets/41197179/c3f15487-582c-4c39-a550-ba73ef6bc540)
 
@@ -144,4 +144,19 @@ Anti X-ray
 ## Chat Heads 🔗[CurseForge](https://www.curseforge.com/minecraft/mc-mods/chat-heads)
 Adds player heads next to chat messages
 
-## Placerholder 🔗[CurseForge]()
+# Nye mods 12.02.2024
+
+## Easy Villagers 🔗[CurseForge](https://www.curseforge.com/minecraft/mc-mods/easy-villagers)
+This mod lets you pick up villagers as an item.
+
+## Enchantment Descriptions 🔗[CurseForge](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
+Adds descriptions of enchantments to the tooltip of enchanted items and enchanted books. Most modded enchantments are also supported!
+
+## Xaero's Minimap 🔗[CurseForge](https://www.curseforge.com/minecraft/mc-mods/apotheosis)
+Minimap mod
+
+## Just Enough Items(JEI) 🔗[CurseForge]([https://www.curseforge.com/minecraft/mc-mods/jei/relations/dependencies](https://www.curseforge.com/minecraft/mc-mods/jei))
+
+## Sophisticated Backpacks 🔗[CurseForge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
+
+## Placeholder 🔗[CurseForge]()
