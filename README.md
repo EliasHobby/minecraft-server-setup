@@ -155,8 +155,10 @@ Adds descriptions of enchantments to the tooltip of enchanted items and enchante
 ## Xaero's Minimap 🔗[CurseForge](https://www.curseforge.com/minecraft/mc-mods/apotheosis)
 Minimap mod
 
-## Just Enough Items(JEI) 🔗[CurseForge]([https://www.curseforge.com/minecraft/mc-mods/jei/relations/dependencies](https://www.curseforge.com/minecraft/mc-mods/jei))
+## Just Enough Items(JEI) 🔗[CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei)
+JEI is an item and recipe viewing mod for Minecraft
 
 ## Sophisticated Backpacks 🔗[CurseForge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
+Sophisticated backpacks is yet another backpack mod this time with backpack you can place in world, color in different color combinations, upgrade with more inventory and enhance with many functional upgrades.
 
 ## Placeholder 🔗[CurseForge]()
